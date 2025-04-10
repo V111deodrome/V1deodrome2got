@@ -641,12 +641,6 @@ http://cdn.admuspeh.my/8812/video.m3u8?token=jki6CaCGNHGA6J2p
 http://cdn.admuspeh.my/8868/video.m3u8?token=jki6CaCGNHGA6J2p
 #EXTINF:-1 tvg-id="773" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/CineMan%20ExExEx%20TWO.png" catchup-days="0", CineMan XXX2 FHD
 http://cdn.admuspeh.my/8869/video.m3u8?token=jki6CaCGNHGA6J2p
-#EXTINF:-1 tvg-id="768" group-title="4K"  tvg-logo="https://m3u.admuspeh.my/icon/cineman-old4k.png" catchup-days="0", CineMan OLD 4K
-http://cdn.admuspeh.my/8804/video.m3u8?token=jki6CaCGNHGA6J2p
-#EXTINF:-1 tvg-id="767" group-title="4K"  tvg-logo="https://m3u.admuspeh.my/icon/cineman-sssr4k.png" catchup-days="0", CineMan CCCP 4K
-http://cdn.admuspeh.my/8795/video.m3u8?token=jki6CaCGNHGA6J2p
-#EXTINF:-1 tvg-id="766" group-title="4K"  tvg-logo="https://m3u.admuspeh.my/icon/cineman-relax.png" catchup-days="0", CineMan Relax 4K
-http://cdn.admuspeh.my/8822/video.m3u8?token=jki6CaCGNHGA6J2p
 #EXTINF:-1 tvg-id="569" group-title="КИНО"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20NewFilm%201%20HD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8741/video-${start}-${duration}.m3u8?token=jki6CaCGNHGA6J2p" timeshift="1", MiniMax Newfilm 1
 http://cdn.admuspeh.my/8741/video.m3u8?token=jki6CaCGNHGA6J2p
 #EXTINF:-1 tvg-id="570" group-title="КИНО"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20NewFilm%202%20HD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8742/video-${start}-${duration}.m3u8?token=jki6CaCGNHGA6J2p" timeshift="1", MiniMax Newfilm 2
@@ -781,6 +775,12 @@ http://cdn.admuspeh.my/8770/video.m3u8?token=jki6CaCGNHGA6J2p
 http://cdn.admuspeh.my/8643/video.m3u8?token=jki6CaCGNHGA6J2p
 #EXTINF:-1 tvg-id="1005" group-title="РАЗВЛЕКАТЕЛЬНЫЕ"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D1%8F%20HD.png" catchup-days="0", MiniMax Открытия HD
 http://cdn.admuspeh.my/8647/video.m3u8?token=jki6CaCGNHGA6J2p
+#EXTINF:-1 tvg-id="768" group-title="4K"  tvg-logo="https://m3u.admuspeh.my/icon/cineman-old4k.png" catchup-days="0", CineMan OLD 4K
+http://cdn.admuspeh.my/8804/video.m3u8?token=jki6CaCGNHGA6J2p
+#EXTINF:-1 tvg-id="767" group-title="4K"  tvg-logo="https://m3u.admuspeh.my/icon/cineman-sssr4k.png" catchup-days="0", CineMan CCCP 4K
+http://cdn.admuspeh.my/8795/video.m3u8?token=jki6CaCGNHGA6J2p
+#EXTINF:-1 tvg-id="766" group-title="4K"  tvg-logo="https://m3u.admuspeh.my/icon/cineman-relax.png" catchup-days="0", CineMan Relax 4K
+http://cdn.admuspeh.my/8822/video.m3u8?token=jki6CaCGNHGA6J2p
 #EXTINF:-1 tvg-id="965" group-title="МУЗЫКА"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20Rock%20HD.png" catchup-days="0", MiniMax Rock HD
 http://cdn.admuspeh.my/8679/video.m3u8?token=jki6CaCGNHGA6J2p
 #EXTINF:-1 tvg-id="599" group-title="ДЕТСКИЕ"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20Walt%20Disney%20HD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8914/video-${start}-${duration}.m3u8?token=jki6CaCGNHGA6J2p" timeshift="1", MiniMax Walt Disney HD
