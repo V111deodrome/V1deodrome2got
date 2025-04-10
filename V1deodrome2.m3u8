@@ -1,4 +1,18 @@
 #EXTM3U url-tvg="https://epg.admuspeh.my"
+#EXTINF:-1 tvg-id="280" group-title="КИНО"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9D%D0%A2%D0%92%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%20orig.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8308/video-${start}-${duration}.m3u8?token=jki6CaCGNHGA6J2p" timeshift="7", НТВ Сериал
+http://cdn.admuspeh.my/8308/video.m3u8?token=jki6CaCGNHGA6J2p
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="1" group-title="ФЕДЕРАЛЬНЫЕ"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20+0%20(%D0%9D%D0%B5%D0%B2%D0%B8%D0%BD%D0%BD%D0%BE%D0%BC%D1%8B%D1%81%D1%81%D0%BA).png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8001/video-${start}-${duration}.m3u8?token=jki6CaCGNHGA6J2p" timeshift="14", Первый канал
 http://cdn.admuspeh.my/8001/video.m3u8?token=jki6CaCGNHGA6J2p
 #EXTINF:-1 tvg-id="138" group-title="ФЕДЕРАЛЬНЫЕ"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20FHD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8150/video-${start}-${duration}.m3u8?token=jki6CaCGNHGA6J2p" timeshift="7", Первый канал HD
@@ -49,8 +63,6 @@ http://cdn.admuspeh.my/8307/video.m3u8?token=jki6CaCGNHGA6J2p
 http://cdn.admuspeh.my/8011/video.m3u8?token=jki6CaCGNHGA6J2p
 #EXTINF:-1 tvg-id="279" group-title="РАЗВЛЕКАТЕЛЬНЫЕ"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9D%D0%A2%D0%92%20%D0%A1%D1%82%D0%B8%D0%BB%D1%8C%20orig.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8306/video-${start}-${duration}.m3u8?token=jki6CaCGNHGA6J2p" timeshift="14", НТВ Стиль
 http://cdn.admuspeh.my/8306/video.m3u8?token=jki6CaCGNHGA6J2p
-#EXTINF:-1 tvg-id="280" group-title="КИНО"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9D%D0%A2%D0%92%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%20orig.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8308/video-${start}-${duration}.m3u8?token=jki6CaCGNHGA6J2p" timeshift="7", НТВ Сериал
-http://cdn.admuspeh.my/8308/video.m3u8?token=jki6CaCGNHGA6J2p
 #EXTINF:-1 tvg-id="322" group-title="РАЗВЛЕКАТЕЛЬНЫЕ"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9D%D0%A2%D0%92%20%D0%A5%D0%B8%D1%82%20HD.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8383/video-${start}-${duration}.m3u8?token=jki6CaCGNHGA6J2p" timeshift="14", НТВ Хит
 http://cdn.admuspeh.my/8383/video.m3u8?token=jki6CaCGNHGA6J2p
 #EXTINF:-1 tvg-id="4" group-title="РАЗВЛЕКАТЕЛЬНЫЕ"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%A0%D0%B5%D0%BD%20%D0%A2%D0%92%20orig.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8004/video-${start}-${duration}.m3u8?token=jki6CaCGNHGA6J2p" timeshift="14", РЕН ТВ
@@ -389,6 +401,10 @@ http://cdn.admuspeh.my/8189/video.m3u8?token=jki6CaCGNHGA6J2p
 http://cdn.admuspeh.my/8190/video.m3u8?token=jki6CaCGNHGA6J2p
 #EXTINF:-1 tvg-id="610" group-title="СПОРТ"  tvg-logo="https://m3u.admuspeh.my/icon/Setanta%20Sports%202%20HD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8676/video-${start}-${duration}.m3u8?token=jki6CaCGNHGA6J2p" timeshift="7", Setanta Sports 2 HD
 http://cdn.admuspeh.my/8676/video.m3u8?token=jki6CaCGNHGA6J2p
+
+
+
+
 #EXTINF:-1 tvg-id="45" group-title="КИНО"  tvg-logo="https://m3u.admuspeh.my/icon/Viju%20TV1000%20HD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8048/video-${start}-${duration}.m3u8?token=jki6CaCGNHGA6J2p" timeshift="7", Viju TV 1000
 http://cdn.admuspeh.my/8048/video.m3u8?token=jki6CaCGNHGA6J2p
 #EXTINF:-1 tvg-id="46" group-title="КИНО"  tvg-logo="https://m3u.admuspeh.my/icon/Viju%20TV1000%20Action%20HD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8049/video-${start}-${duration}.m3u8?token=jki6CaCGNHGA6J2p" timeshift="7", Viju TV1000 Action
